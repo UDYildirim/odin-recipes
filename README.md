@@ -1,0 +1,1 @@
+Bu projede en basit şekilde "websitesi" nasıl oluşturulur onun pratiğini yapacağım.Proje bittikten sonra burayı tekrar düzenleyip ne kazanımlarda bulunduğumu ve neleri pekiştirdiğimi ekleyeceğim.
