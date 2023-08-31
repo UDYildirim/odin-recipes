@@ -1,7 +1,7 @@
 In this project I tried to make my first mock "website".After finishing the project I can say it was fun and even though it was fairly basic and simple site I learned some new things.
-Things i practiced or learned during this project:
+Things I practiced or learned during this project:
 
-- HTML file skeleton
+- HTML file basic structure
 - Making lists and links
 - Why return to main page is good and important lol
 - Basic workflow or glimpse of it.
