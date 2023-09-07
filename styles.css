@@ -1,0 +1,21 @@
+body{
+    font-size: 16px;
+    text-align: center;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+.unordered-list{
+    text-align: left;
+    display: inline-block;
+}
+
+h1{
+    color: rgb(253, 0, 0);
+    background-color: rgb(182, 255, 130);
+}
+
+a{
+    text-decoration: none;
+    background-color: rgb(110, 242, 231);
+    color: #4747fd;
+}
