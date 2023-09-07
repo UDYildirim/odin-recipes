@@ -2,19 +2,26 @@ body{
     font-size: 16px;
     text-align: center;
     font-family: Verdana, Arial, sans-serif;
+    background-color: rgb(241, 117, 117);
+    color: white;
 }
 
-.unordered-list{
+ol,
+ul{
     text-align: left;
     display: inline-block;
 }
 
 h1{
-    color: rgb(253, 0, 0);
-    background-color: rgb(182, 255, 130);
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 800;
+    color: #ffffff;
+   /* background-color: rgb(182, 255, 130); */
 }
 
 a{
-    background-color: rgb(110, 242, 231);
-    color: #4747fd;
+    background-color: rgba(255, 0, 0, 0.671);
+    color: #ffffff;
+    text-decoration: none;
 }
