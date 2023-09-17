@@ -1,4 +1,6 @@
-html,
+html{
+    min-height:100%;/* make sure it is at least as tall as the viewport */
+}
 body{
     font-size: 16px;
     text-align: center;
@@ -7,6 +9,8 @@ body{
     color: white;
     height: 100%;
     width: 100%;
+    margin: 0px;
+    padding: 0px;
 }
 
 ol,
@@ -36,9 +40,12 @@ a{
 
 .page{
     background-color: rgb(223, 5, 63);
+    background-repeat:repeat;
+    background-attachment: scroll;
     height: 100%;
     width: 50%;
-    margin: -10px auto;
+    min-height: 100vh;
+    margin: 0px auto;
     padding: 10px 40px;
 
 }
